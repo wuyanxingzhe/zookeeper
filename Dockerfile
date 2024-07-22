@@ -1,1 +1,1 @@
-FROM bitnami/zookeeper:3.9.2-debian-12-r7
+FROM bitnami/zookeeper:3.8.1-debian-11-r31
